@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db5dfe0c-3433-42c6-87cf-136e7cafd7d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="db5dfe0c-3433-42c6-87cf-136e7cafd7d6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +15,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="478">
-                <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+              <first_editor relative-caret-position="302">
+                <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="35" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -55,7 +51,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="71" />
-    <option name="y" value="207" />
+    <option name="y" value="206" />
     <option name="width" value="1381" />
     <option name="height" value="810" />
   </component>
@@ -109,7 +105,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="207" width="1381" height="810" extended-state="0" />
+    <frame x="71" y="206" width="1381" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -152,8 +148,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="478">
-            <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+          <first_editor relative-caret-position="302">
+            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="35" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
