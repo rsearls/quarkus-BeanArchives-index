@@ -32,8 +32,8 @@ mvn install:install-file \
 
 Execution env.
     jdk 11.0.2
-    mvn 3.6.0
-    quarkus 1.2.0.Final
+    mvn 3.6.3
+    quarkus 1.3.1.Final
     
   The pom.xml file contains the minimum archives required to compile and run the tests.
   
